@@ -9,5 +9,5 @@ This repository consist of 4 different machine learning parts:
 3. Natural Language Processing in TensorFlow
 4. Sequences, Time Series and Prediction
 
-Each file will contain everyday class materials and personal note being made during the course
-It has been uploaded to record the study
+Each file will contain everyday class materials and personal note being made during the course.
+It has been uploaded to record the study.
